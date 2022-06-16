@@ -1,0 +1,8 @@
+{
+	"prod": "https://www.mytheresa.com/en-de/men.html",
+     "test": "https://test.mytheresa.com/en-de/men.html",
+     "local": "https://local.mytheresa.com/en-de/men.html",
+     "stg": "https://staging.mytheresa.com/en-de/men.html",
+     "environment": "prod",
+     "browser": "chrome11"
+}
